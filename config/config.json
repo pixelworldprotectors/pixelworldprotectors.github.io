@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x858Ae1C82E9E6a601132548b0434D45095b87239",
+  "SCAN_LINK": "https://polygonscan.com/token/0x858ae1c82e9e6a601132548b0434d45095b87239",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "PixelWorldProtector",
+  "SYMBOL": "PWP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pixelworldprotectors",
+  "SHOW_BACKGROUND": false
+}
